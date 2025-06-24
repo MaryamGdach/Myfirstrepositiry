@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hi, I’m Maryam Gdach! I’m learning to use GitHub as part of my journey to explore version control and collaborative coding. I’m excited to create my first repository and share my progress as I dive into programming and software development.
+
+In my free time, I enjoy crocheting and reading. I’m looking forward to building more projects and contributing to open-source in the future!
